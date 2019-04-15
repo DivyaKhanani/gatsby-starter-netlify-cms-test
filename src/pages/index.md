@@ -47,6 +47,8 @@ intro:
         sale. The full price you pay goes to the artist.
     - image: /img/flavor_wheel.jpg
       text: 'This My first try '
+    - image: /img/tutorials.png
+      text: Here is some extra text
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
